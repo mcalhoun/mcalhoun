@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-I'm Matt — a hands-on engineer and full-stack developer with deep experience building production-grade software systems, automating infrastructure, and delivering scalable cloud-native platforms. I specialize in developer tools, internal platforms, and SaaS applications that balance performance, security, and maintainability.
+I'm Matt — co-founder of to11.ai (@to11ai) and an hand-on engineer focused on AI, developer tools, internal platforms, and cloud-native SaaS products.
 
-- 🔭 I'm currently working as Principal Engineer at [Terramate](https://github.com/terramate-io), building functionality for the Terramate CLI and Cloud to help customers define their infrastructure faster and more consistently
-- ⚽ In my spare time, I'm helping [RC Performance Training](https://rcperform.com) to use modern technology to improve their Soccer (Football) training business
-- 🌱 I'm currently learning more about Effect-TS and advanced OpenTelemetry instrumentation in Next.js
-- 👯 I'm looking to collaborate on open-source tooling for platform engineering and DX
-- 💬 Ask me about Go, TypeScript, Terraform, observability, or building SaaS platforms from scratch
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mattcalhoun), [Twitter](https://twitter.com/mattcalhoun), or here on GitHub
-- ⚡ Fun fact: I've traveled to 49 out of 50 U.S. states (just missing Hawaii!)
+I enjoy building systems that sit at the intersection of infrastructure, observability, platform engineering, and product-minded software development.
 
----
-Currently working as Principal Engineer at [Terramate](https://github.com/terramate-io), where I'm working on enhancing the Terramate CLI and Terramate Cloud to help teams define infrastructure more quickly and consistently as part of our mission to make Infrastructure as Code accessible for everyone and accelerate IaC adoption across organizations of all sizes.
+- 🚀 I'm currently co-founding to11.ai, where we're building an AI observability platform focused on OTel-native tracing, prompt management, evals, and production-grade tooling for LLM applications
+- 🌱 I'm currently digging deeper into Effect-TS, OpenTelemetry, distributed systems, and AI platform architecture
+- 👯 I'm looking to collaborate on open-source tooling for platform engineering, observability, and developer experience
+- 💬 Ask me about Go, TypeScript, Terraform, observability, AI platforms, or building SaaS products from scratch
+- 📫 How to reach me: LinkedIn, X, or here on GitHub
+- ⚡ Fun fact: I've traveled to 49 out of 50 U.S. states — just missing Hawaii!
 
-Previously served as Principal Engineer at [Cloud Posse](github.com/cloudposse), where I contributed to open-source tooling, delivered large-scale platform initiatives, and launched [Atmos Pro](https://atmos-pro.com)—a SaaS control plane for GitOps-based infrastructure management.
+Most recently, I co-founded to11.ai, where we're building an integrated platform for AI observability, prompt management, evals, and gateway capabilities for production LLM apps.
 
-Former founding engineer at [Gruntwork](https://github.com/gruntwork-io), where I helped build [Terragrunt](https://github.com/gruntwork-io/terragrunt) and [Terratest](https://github.com/gruntwork-io/terratest) into industry-standard tools for infrastructure automation.
+Previously, I was a Principal Engineer at Terramate, where I worked on the Terramate CLI and Terramate Cloud to help teams define, orchestrate, and scale infrastructure with more speed, consistency, and clarity.
 
-I bring the execution focus of an IC with the perspective of a founder or CTO—able to dive into the weeds without losing sight of strategic outcomes.
+Before that, I was a Principal Engineer at Cloud Posse, where I contributed to open-source tooling, led large-scale platform initiatives, and helped launch Atmos Pro. Earlier, I was a founding engineer at Gruntwork, where I helped build Terragrunt and Terratest into widely adopted tools for infrastructure automation. Earlier in my career, I served as CTO at Twiage.
+
+I bring the execution mindset of an IC with the perspective of a founder/CTO — comfortable going deep in the weeds while keeping product, systems, and business outcomes in view.
 
 Thanks for stopping by!
