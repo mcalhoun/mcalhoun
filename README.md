@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt — co-founder of [to11](https://to11.ai) and an hand-on engineer focused on AI, developer tools, internal platforms, and cloud-native SaaS products.
+I'm Matt — co-founder of [to11](https://to11.ai) and an hands-on engineer focused on AI, developer tools, internal platforms, and cloud-native SaaS products.
 
 I enjoy building systems that sit at the intersection of infrastructure, observability, platform engineering, and product-minded software development.
 
