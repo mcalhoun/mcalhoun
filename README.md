@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-I'm Matt — co-founder of [to11](https://to11.ai) and an hands-on engineer focused on AI, developer tools, internal platforms, and cloud-native SaaS products.
+I'm Matt. I'm joining Redpanda as a Principal Software Engineer on the Agentic Data Plane (ADP) team.
 
-I enjoy building systems that sit at the intersection of infrastructure, observability, platform engineering, and product-minded software development.
+I build infrastructure and developer tools, with a focus on distributed systems, AI platforms, and cloud-native software. I enjoy working through hard systems problems and making the results useful to the people who depend on them.
 
-- 🚀 I'm a co-founder at to11.ai, where we're building an AI observability platform focused on OTel-native tracing, prompt management, evals, and production-grade tooling for LLM applications
-- 🌱 These days, I'm spending a lot of time on OpenTelemetry, Effect-TS, distributed systems, and AI platform architecture
-- 👯 I'm looking to collaborate on open-source tooling for platform engineering, observability, and developer experience
-- 💬 Ask me about Go, TypeScript, Terraform, observability, AI platforms, or building SaaS products from scratch
+- 🚀 I'm joining Redpanda to work on the Agentic Data Plane
+- 🌱 I'm interested in distributed systems, OpenTelemetry, and infrastructure for AI applications
+- 👯 I'm looking to collaborate on open-source tools for platform engineering, observability, and developer experience
+- 💬 Ask me about Go, TypeScript, Terraform, AI platforms, or building SaaS products from scratch
 - 📫 How to reach me: LinkedIn, X, or here on GitHub
-- ⚡ Fun fact: I've traveled to 49 out of 50 U.S. states — just missing Hawaii!
+- ⚡ Fun fact: I've traveled to 49 out of 50 U.S. states. Just missing Hawaii!
 
-Previously, I was a Principal Engineer at Terramate, where I worked on the Terramate CLI and Terramate Cloud to help teams define, orchestrate, and scale infrastructure with more speed, consistency, and clarity.
+Previously, I co-founded [to11](https://to11.ai/), where I helped build an AI observability platform with OpenTelemetry-native tracing, prompt management, and evals for LLM applications.
 
-Before that, I was a Principal Engineer at Cloud Posse, where I contributed to open-source tooling, led large-scale platform initiatives, and helped launch Atmos Pro. Earlier, I was a founding engineer at Gruntwork, where I helped build Terragrunt and Terratest into widely adopted tools for infrastructure automation. Earlier in my career, I served as CTO at Twiage.
+Before that, I was a Principal Engineer at Terramate, where I worked on the Terramate CLI and Terramate Cloud to help teams manage and orchestrate infrastructure.
 
-I bring the execution mindset of an IC with the perspective of a founder/CTO — comfortable going deep in the weeds while keeping product, systems, and business outcomes in view.
+At Cloud Posse, I was a Principal Engineer, contributed to open-source tooling, led platform initiatives, and helped launch Atmos Pro. As a founding engineer at Gruntwork, I helped build Terragrunt and Terratest. Earlier in my career, I was CTO at Twiage.
+
+My experience as an engineer, founder, and CTO shapes how I work. I like getting into the implementation details, understanding what customers need, and helping teams decide what to build.
 
 Thanks for stopping by!
