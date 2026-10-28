@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Matt. I'm joining Redpanda as a Principal Software Engineer on the Agentic Data Plane (ADP) team.
+I'm Matt. I'm Principal Software Engineer at [Redpanda](https://github.com/redpanda-data) on the Agentic Data Plane (ADP) team.
 
 I build infrastructure and developer tools, with a focus on distributed systems, AI platforms, and cloud-native software. I enjoy working through hard systems problems and making the results useful to the people who depend on them.
 
-- 🚀 I'm joining Redpanda to work on the Agentic Data Plane
+- 🚀 Work at Redpanda on the Agentic Data Plane
 - 🌱 I'm interested in distributed systems, OpenTelemetry, and infrastructure for AI applications
 - 👯 I'm looking to collaborate on open-source tools for platform engineering, observability, and developer experience
 - 💬 Ask me about Go, TypeScript, Terraform, AI platforms, or building SaaS products from scratch
